@@ -1,8 +1,6 @@
-<center>
-  <a href="https://example.com/enlace">
-    <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp" alt="Visualización de datos">
-  </a>
-</center>
+<p align="center">
+  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp" alt="Visualización de datos">
+</p>
 
 # Portafolio de Prompt Engineering en IBM para Análisis de Datos
 
