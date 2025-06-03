@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp" alt="Visualización de datos">
+  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp" alt="Visualización de datos" width="800" height="400">
 </p>
 
 # Portafolio de Prompt Engineering en IBM para Análisis de Datos
